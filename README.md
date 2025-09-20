@@ -67,9 +67,18 @@ Passionate about building solutions that merge **data, automation, and sustainab
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
 ---
 
 ## 📌 Featured Projects
+🔹 [**Kidney Disease Classification (Final Project)**](https://eprints.untirta.ac.id/49711/)  
+Performance analysis of feature descriptors in kidney disease classification using CT scan images.  
+
+🔹 [**Sentiment Analysis of Shin Tae-Yong Dismissal**](https://github.com/rizkiMaulaa/Sentiment-Analysis-of-Shin-Tae-Yong-Dismissal)  
+A sentiment analysis project applying NLP to trending football news.  
+
+🔹 [**Arduino-based Gas Leak Detection Tool**](https://github.com/rizkiMaulaa/Arduino-Based-Gas-Leak-Detecting-Tool)  
+IoT prototype for smart safety monitoring.
 
 ---
 
