@@ -37,8 +37,8 @@ Passionate about building solutions that merge **data, automation, and sustainab
 ---
 
 ## 📊 GitHub Stats
-![Rizki's GitHub stats](https://github-readme-stats.vercel.app/api?username=RizkiMaula65&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiMaula65&layout=compact&theme=radical)  
+![Rizki's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkiMaulaa&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkiMaulaa&layout=compact&theme=radical)  
 
 ---
 
