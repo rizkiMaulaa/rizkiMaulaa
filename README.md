@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Rizki Maula
 
+![Cute Cat](https://media.giphy.com/media/LOtqITm3tFmiA/giphy.gif)
+
 🎓 Electrical Engineering Graduate | 📊 Machine Learning & IoT Enthusiast | 🌱 Renewable Energy Advocate  
 
 I am an **Electrical Engineering graduate** specializing in **telecommunications and computer science**, with a strong interest in **Machine Learning, IoT, and Renewable Energy**.  
